@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/ximother/heath/issues"
   },
-  "homepage": "https://github.com/ximother/heath#readme"
+  "homepage": "https://github.com/ximother/heath#readme",
+  "dependencies": {
+    "clean-css-cli": "^5.6.1",
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.17.4"
+  }
 }
