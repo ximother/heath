@@ -1,6 +1,6 @@
 echo "Building project..."
 
-BUILDPATH=./build
+BUILDPATH=./docs
 mkdir $BUILDPATH
 
 echo "Copying files..."
